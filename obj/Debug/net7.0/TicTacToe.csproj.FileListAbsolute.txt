@@ -1,0 +1,15 @@
+/Users/amaansyed/Desktop/TicTacToe/bin/Debug/net7.0/TicTacToe
+/Users/amaansyed/Desktop/TicTacToe/bin/Debug/net7.0/TicTacToe.deps.json
+/Users/amaansyed/Desktop/TicTacToe/bin/Debug/net7.0/TicTacToe.runtimeconfig.json
+/Users/amaansyed/Desktop/TicTacToe/bin/Debug/net7.0/TicTacToe.dll
+/Users/amaansyed/Desktop/TicTacToe/bin/Debug/net7.0/TicTacToe.pdb
+/Users/amaansyed/Desktop/TicTacToe/obj/Debug/net7.0/TicTacToe.csproj.AssemblyReference.cache
+/Users/amaansyed/Desktop/TicTacToe/obj/Debug/net7.0/TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amaansyed/Desktop/TicTacToe/obj/Debug/net7.0/TicTacToe.AssemblyInfoInputs.cache
+/Users/amaansyed/Desktop/TicTacToe/obj/Debug/net7.0/TicTacToe.AssemblyInfo.cs
+/Users/amaansyed/Desktop/TicTacToe/obj/Debug/net7.0/TicTacToe.csproj.CoreCompileInputs.cache
+/Users/amaansyed/Desktop/TicTacToe/obj/Debug/net7.0/TicTacToe.dll
+/Users/amaansyed/Desktop/TicTacToe/obj/Debug/net7.0/refint/TicTacToe.dll
+/Users/amaansyed/Desktop/TicTacToe/obj/Debug/net7.0/TicTacToe.pdb
+/Users/amaansyed/Desktop/TicTacToe/obj/Debug/net7.0/TicTacToe.genruntimeconfig.cache
+/Users/amaansyed/Desktop/TicTacToe/obj/Debug/net7.0/ref/TicTacToe.dll
